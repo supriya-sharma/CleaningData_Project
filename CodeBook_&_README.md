@@ -10,3 +10,13 @@ The tidy dataset generated ("tidy_dataset.csv") has one variable for one subject
 The first row is the header containing names for each column.
 
 
+CodeBook:
+
+Raw data: UCI HAR Dataset
+Script: run_analysis.R
+Training Data
+Test Data
+Activities
+Final tidy data: tidy_dataset
+
+
